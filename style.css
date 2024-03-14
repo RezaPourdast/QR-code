@@ -68,3 +68,10 @@ body {
   margin: 10px auto;
   border: 1px solid #d1d1d1;
 }
+
+.inputText {
+  display: flex;
+  justify-content: center;
+  color: #262a2f;
+  font-weight: 600;
+}
